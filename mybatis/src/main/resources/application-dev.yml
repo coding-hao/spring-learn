@@ -1,0 +1,21 @@
+
+server:
+  port: 8080
+
+spring:
+  datasource:
+    username: gpsadmin
+    password: 1qaz&619
+    url: jdbc:mysql://ifengstar.com:8610/test?useUnicode=true&characterEncoding=utf-8&useSSL=false
+    driver-class-name: com.mysql.jdbc.Driver
+
+mybatis:
+  mapper-locations: classpath:mapping/*.xml
+  configuration:
+    map-underscore-to-camel-case: true
+
+logging:
+  level:
+    com:
+      example:
+        mapper : debug

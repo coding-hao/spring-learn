@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/copy-mybatis/copy-mybatis.iml" filepath="$PROJECT_DIR$/copy-mybatis/copy-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-api/java-api.iml" filepath="$PROJECT_DIR$/java-api/java-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis/mybatis.iml" filepath="$PROJECT_DIR$/mybatis/mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-autowired/spring-autowired.iml" filepath="$PROJECT_DIR$/spring-autowired/spring-autowired.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cache/spring-cache.iml" filepath="$PROJECT_DIR$/spring-cache/spring-cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-learn.iml" filepath="$PROJECT_DIR$/spring-learn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-validation/spring-validation.iml" filepath="$PROJECT_DIR$/spring-validation/spring-validation.iml" />
+    </modules>
+  </component>
+</project>
